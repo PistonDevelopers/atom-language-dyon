@@ -1,0 +1,17 @@
+{
+  "name": "language-dyon",
+  "version": "0.0.1",
+  "description": "Syntax highlighting for Dyon",
+  "engines": {
+    "atom": ">0.50.0 <2.0.0"
+  },
+  "dependencies": {},
+  "homepage": "https://github.com/PistonDevelopers/atom-language-dyon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PistonDevelopers/atom-language-dyon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PistonDevelopers/atom-language-dyon/issues"
+  }
+}
