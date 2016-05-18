@@ -140,7 +140,7 @@
   {
     'comment': 'Keyword'
     'name': 'keyword.other.dyon'
-    'match': '\\b(sum|min|max|any|all|sift|and|or|go)\\b'
+    'match': '\\b(sum|sum_vec4|min|max|any|all|sift|and|or|go)\\b'
   }
   { 'include': '#self' }
   { 'include': '#mut' }
