@@ -1,6 +1,6 @@
 {
   "name": "language-dyon",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Syntax highlighting for Dyon",
   "license": "MIT",
   "engines": {
