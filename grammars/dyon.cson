@@ -135,7 +135,7 @@
   {
     'comment': 'Control keyword'
     'name': 'keyword.control.dyon'
-    'match': '\\b(break|continue|else|if|for|loop|return)\\b'
+    'match': '\\b(break|continue|else|if|for|loop|return|in)\\b'
   }
   {
     'comment': 'Keyword'
